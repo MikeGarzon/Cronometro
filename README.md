@@ -1,1 +1,2 @@
-# Cronometro
+# Cronometro | Modelos II
+# MAICOL ANDRES GARZON FONSECA | 20172020011
