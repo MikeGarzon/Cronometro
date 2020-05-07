@@ -1,3 +1,5 @@
 # Cronometro | Modelos II
-# MAICOL ANDRES GARZON FONSECA | 20172020011
-# DAGON y filip PONGA SU CODIGO
+# Luis Felipe Corredor Espinosa | 20171020056
+# Diego Alejandro González Rojas | 20171020111
+# Maicol Andrés Garzón Fonseca | 20172020011
+
